@@ -11,7 +11,7 @@ require (
 	github.com/gorilla/csrf v1.6.0
 	github.com/gorilla/mux v1.7.3
 	github.com/gorilla/sessions v1.2.0
-	github.com/gorilla/websocket v1.4.1
+	github.com/gorilla/websocket v1.5.3
 	github.com/hashicorp/hcl v1.0.0
 	github.com/imdario/mergo v0.3.7
 	github.com/libvirt/libvirt-go v7.4.0+incompatible
